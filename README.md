@@ -1,2 +1,2 @@
-# solog
+# simplog
 Simple standalone log server
